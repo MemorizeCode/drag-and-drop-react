@@ -1,0 +1,21 @@
+.tables {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.table {
+  width: 350px;
+  min-height: 600px;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+.table h2 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+  border: 2px solid black;
+  margin: 5px;
+}
